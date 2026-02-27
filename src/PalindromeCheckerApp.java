@@ -1,13 +1,6 @@
 public class PalindromeCheckerApp {
 
     public static void main(String[] args) {
-
-        // UC1: Welcome Message
-        System.out.println("Palindrome Checker App");
-        System.out.println("Version 1.0");
-        System.out.println("----------------------");
-
-        // UC2: Hardcoded Palindrome Check
         String word = "madam";
         boolean isPalindrome = true;
 
